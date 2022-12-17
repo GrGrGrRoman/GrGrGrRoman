@@ -1,12 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26gJAhYZeQ36s3HUs/giphy.gif" width="200"/>
 
+### good time of day 👋
 
-
-### Hi there 👋
-
-
-
+<div align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="600" height="300"/>
+</div>
+  
+  ---
+  
+  ### :man_technologist: About Me :
+I am a student at the online school Skillfactory on the course PHP & JS developer
 
 
 

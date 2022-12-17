@@ -1,4 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/26gJAhYZeQ36s3HUs/giphy.gif" width="200"/>
+
+
+
 ### Hi there 👋
+
+
+
+
+
+
 
 <!--
 **GrGrGrRoman/GrGrGrRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
